@@ -1,4 +1,5 @@
-document.getElementById('getText').addEventListener('click',getJSON);
+document.getElementById('getText').addEventListener('click',getText);
+document.getElementById('getJSON0').addEventListener('click',getJSON);
 
 function getText() {
     fetch('sample.txt')
