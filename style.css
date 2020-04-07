@@ -1,0 +1,20 @@
+.get__button{
+    padding: 15px;
+    min-width: 120px;
+}
+.main__wraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.output__paragraph{
+    margin: 6px 0;
+}
+.output__wraper{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
