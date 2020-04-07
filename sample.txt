@@ -1,0 +1,1 @@
+I'm just a simple text file to use as example of fetch method.
